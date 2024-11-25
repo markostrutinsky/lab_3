@@ -1,0 +1,20 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/moviedirectordb
+    username: postgres
+    password: lbdfyghj123
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        format_sql: true
+    database: postgresql
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+api:
+  movie:
+    pagination:
+      enabled: true
+      default-page-size: 10
+      max-page-size: 100

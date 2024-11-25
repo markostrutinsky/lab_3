@@ -1,0 +1,779 @@
+2024-10-22 18:06:51.544 [http-nio-8080-exec-9] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-22 18:06:51.544 [http-nio-8080-exec-9] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-22 18:06:51.553 [http-nio-8080-exec-9] INFO  project - DirectorServiceImpl:findAll() Retrieved 16 directors
+2024-10-22 18:06:51.553 [http-nio-8080-exec-9] INFO  project - DirectorController:getAll() Fetched 16 directors
+2024-10-22 18:06:51.557 [http-nio-8080-exec-10] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-22 18:06:51.557 [http-nio-8080-exec-10] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-22 18:06:51.560 [http-nio-8080-exec-10] INFO  project - DirectorServiceImpl:findAll() Retrieved 16 directors
+2024-10-22 18:06:51.561 [http-nio-8080-exec-10] INFO  project - DirectorController:getAll() Fetched 16 directors
+2024-10-22 19:35:05.159 [http-nio-8080-exec-3] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-22 19:35:05.159 [http-nio-8080-exec-3] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-22 19:35:05.184 [http-nio-8080-exec-3] INFO  project - DirectorServiceImpl:findAll() Retrieved 16 directors
+2024-10-22 19:35:05.185 [http-nio-8080-exec-3] INFO  project - DirectorController:getAll() Fetched 16 directors
+2024-10-22 19:35:05.193 [http-nio-8080-exec-4] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-22 19:35:05.193 [http-nio-8080-exec-4] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-22 19:35:05.198 [http-nio-8080-exec-4] INFO  project - DirectorServiceImpl:findAll() Retrieved 16 directors
+2024-10-22 19:35:05.198 [http-nio-8080-exec-4] INFO  project - DirectorController:getAll() Fetched 16 directors
+2024-10-22 19:35:52.795 [http-nio-8080-exec-6] INFO  project - DirectorController:createDirector() Received request to create director: CreateDirectorRequestDTO(firstName=first, lastName=test, biography=, birthDate=2004-11-16)
+2024-10-22 19:35:52.828 [http-nio-8080-exec-6] INFO  project - DirectorServiceImpl:save() Saved new director with id: 17
+2024-10-22 19:35:52.828 [http-nio-8080-exec-6] INFO  project - DirectorController:createDirector() Successfully created director with id: 17
+2024-10-22 19:43:00.317 [http-nio-8080-exec-9] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-22 19:43:00.317 [http-nio-8080-exec-9] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-22 19:43:00.321 [http-nio-8080-exec-9] INFO  project - DirectorServiceImpl:findAll() Retrieved 17 directors
+2024-10-22 19:43:00.321 [http-nio-8080-exec-9] INFO  project - DirectorController:getAll() Fetched 17 directors
+2024-10-22 19:43:00.325 [http-nio-8080-exec-10] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-22 19:43:00.325 [http-nio-8080-exec-10] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-22 19:43:00.328 [http-nio-8080-exec-10] INFO  project - DirectorServiceImpl:findAll() Retrieved 17 directors
+2024-10-22 19:43:00.329 [http-nio-8080-exec-10] INFO  project - DirectorController:getAll() Fetched 17 directors
+2024-10-22 19:43:40.570 [http-nio-8080-exec-2] INFO  project - DirectorController:createDirector() Received request to create director: CreateDirectorRequestDTO(firstName=second, lastName=test, biography=, birthDate=2004-11-16)
+2024-10-22 19:43:40.576 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:save() Saved new director with id: 18
+2024-10-22 19:43:40.576 [http-nio-8080-exec-2] INFO  project - DirectorController:createDirector() Successfully created director with id: 18
+2024-10-22 19:43:44.722 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-22 19:43:44.722 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-22 19:43:44.727 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieved 18 directors
+2024-10-22 19:43:44.727 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Fetched 18 directors
+2024-10-22 19:43:44.728 [http-nio-8080-exec-3] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-22 19:43:44.728 [http-nio-8080-exec-3] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-22 19:43:44.732 [http-nio-8080-exec-3] INFO  project - DirectorServiceImpl:findAll() Retrieved 18 directors
+2024-10-22 19:43:44.732 [http-nio-8080-exec-3] INFO  project - DirectorController:getAll() Fetched 18 directors
+2024-10-22 19:49:25.430 [http-nio-8080-exec-6] INFO  project - DirectorController:createDirector() Received request to create director: CreateDirectorRequestDTO(firstName=third, lastName=test, biography=, birthDate=2004-12-11)
+2024-10-22 19:49:25.438 [http-nio-8080-exec-6] INFO  project - DirectorServiceImpl:save() Saved new director with id: 19
+2024-10-22 19:49:25.438 [http-nio-8080-exec-6] INFO  project - DirectorController:createDirector() Successfully created director with id: 19
+2024-10-22 19:49:25.929 [http-nio-8080-exec-7] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-22 19:49:25.929 [http-nio-8080-exec-7] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-22 19:49:25.932 [http-nio-8080-exec-7] INFO  project - DirectorServiceImpl:findAll() Retrieved 19 directors
+2024-10-22 19:49:25.932 [http-nio-8080-exec-7] INFO  project - DirectorController:getAll() Fetched 19 directors
+2024-10-22 19:49:25.936 [http-nio-8080-exec-8] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-22 19:49:25.936 [http-nio-8080-exec-8] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-22 19:49:25.942 [http-nio-8080-exec-8] INFO  project - DirectorServiceImpl:findAll() Retrieved 19 directors
+2024-10-22 19:49:25.942 [http-nio-8080-exec-8] INFO  project - DirectorController:getAll() Fetched 19 directors
+2024-10-22 19:50:46.322 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-22 19:50:46.322 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-22 19:50:46.327 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieved 19 directors
+2024-10-22 19:50:46.327 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Fetched 19 directors
+2024-10-22 19:54:07.382 [http-nio-8080-exec-1] INFO  project - DirectorController:createDirector() Received request to create director: CreateDirectorRequestDTO(firstName=Christopher, lastName=Nolan, biography=, birthDate=1970-07-30)
+2024-10-22 19:54:07.527 [http-nio-8080-exec-1] ERROR project - DirectorServiceImpl:save() Director already exists with id: 1
+2024-10-22 19:54:07.528 [http-nio-8080-exec-1] ERROR project - GlobalExceptionHandler:handleException() An exception occurred: Director already exists
+2024-10-22 20:01:22.454 [http-nio-8080-exec-2] INFO  project - DirectorController:createDirector() Received request to create director: CreateDirectorRequestDTO(firstName=Christopher, lastName=Strutynskyi, biography=, birthDate=1970-07-30)
+2024-10-22 20:01:22.506 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:save() Saved new director with id: 20
+2024-10-22 20:01:22.506 [http-nio-8080-exec-2] INFO  project - DirectorController:createDirector() Successfully created director with id: 20
+2024-10-22 20:01:23.000 [http-nio-8080-exec-4] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-22 20:01:23.000 [http-nio-8080-exec-4] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-22 20:01:23.012 [http-nio-8080-exec-4] INFO  project - DirectorServiceImpl:findAll() Retrieved 20 directors
+2024-10-22 20:01:23.013 [http-nio-8080-exec-4] INFO  project - DirectorController:getAll() Fetched 20 directors
+2024-10-22 20:01:23.026 [http-nio-8080-exec-5] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-22 20:01:23.026 [http-nio-8080-exec-5] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-22 20:01:23.038 [http-nio-8080-exec-5] INFO  project - DirectorServiceImpl:findAll() Retrieved 20 directors
+2024-10-22 20:01:23.038 [http-nio-8080-exec-5] INFO  project - DirectorController:getAll() Fetched 20 directors
+2024-10-22 20:01:38.847 [http-nio-8080-exec-6] INFO  project - DirectorController:createDirector() Received request to create director: CreateDirectorRequestDTO(firstName=Christopher, lastName=Nolan, biography=, birthDate=1970-07-30)
+2024-10-22 20:01:38.856 [http-nio-8080-exec-6] ERROR project - DirectorServiceImpl:save() Director already exists with id: 1
+2024-10-22 20:01:38.856 [http-nio-8080-exec-6] ERROR project - GlobalExceptionHandler:handleException() An exception occurred: Director already exists
+2024-10-22 20:46:34.606 [http-nio-8080-exec-1] INFO  project - DirectorController:createDirector() Received request to create director: CreateDirectorRequestDTO(firstName=, lastName=, biography=American director, producer, and writer known for her intense and suspenseful films. She made history by becoming the first woman to win the Academy Award for Best Director., birthDate=null)
+2024-10-22 20:46:34.650 [http-nio-8080-exec-1] ERROR project - RequestDTOValidator:validate() Validation failed for object: CreateDirectorRequestDTO(firstName=, lastName=, biography=American director, producer, and writer known for her intense and suspenseful films. She made history by becoming the first woman to win the Academy Award for Best Director., birthDate=null). Errors: [Last name: filled incorrectly. It cannot consist only of spaces or be left unfilled., First name: filled incorrectly. It cannot consist only of spaces or be left unfilled., size must be between 2 and 50, Date cannot be left unfilled., size must be between 2 and 50]
+2024-10-22 20:49:23.803 [http-nio-8080-exec-4] INFO  project - DirectorController:createDirector() Received request to create director: CreateDirectorRequestDTO(firstName=, lastName=, biography=American director, producer, and writer known for her intense and suspenseful films. She made history by becoming the first woman to win the Academy Award for Best Director., birthDate=null)
+2024-10-22 20:49:23.804 [http-nio-8080-exec-4] ERROR project - RequestDTOValidator:validate() Validation failed for object: CreateDirectorRequestDTO(firstName=, lastName=, biography=American director, producer, and writer known for her intense and suspenseful films. She made history by becoming the first woman to win the Academy Award for Best Director., birthDate=null). Errors: [size must be between 2 and 50, Date cannot be left unfilled., size must be between 2 and 50, Last name: filled incorrectly. It cannot consist only of spaces or be left unfilled., First name: filled incorrectly. It cannot consist only of spaces or be left unfilled.]
+2024-10-22 20:49:25.589 [http-nio-8080-exec-6] INFO  project - DirectorController:createDirector() Received request to create director: CreateDirectorRequestDTO(firstName=, lastName=, biography=American director, producer, and writer known for her intense and suspenseful films. She made history by becoming the first woman to win the Academy Award for Best Director., birthDate=null)
+2024-10-22 20:49:25.590 [http-nio-8080-exec-6] ERROR project - RequestDTOValidator:validate() Validation failed for object: CreateDirectorRequestDTO(firstName=, lastName=, biography=American director, producer, and writer known for her intense and suspenseful films. She made history by becoming the first woman to win the Academy Award for Best Director., birthDate=null). Errors: [First name: filled incorrectly. It cannot consist only of spaces or be left unfilled., size must be between 2 and 50, Date cannot be left unfilled., size must be between 2 and 50, Last name: filled incorrectly. It cannot consist only of spaces or be left unfilled.]
+2024-10-22 20:49:29.579 [http-nio-8080-exec-8] INFO  project - DirectorController:createDirector() Received request to create director: CreateDirectorRequestDTO(firstName=, lastName=, biography=American director, producer, and writer known for her intense and suspenseful films. She made history by becoming the first woman to win the Academy Award for Best Director., birthDate=null)
+2024-10-22 20:49:29.580 [http-nio-8080-exec-8] ERROR project - RequestDTOValidator:validate() Validation failed for object: CreateDirectorRequestDTO(firstName=, lastName=, biography=American director, producer, and writer known for her intense and suspenseful films. She made history by becoming the first woman to win the Academy Award for Best Director., birthDate=null). Errors: [Last name: filled incorrectly. It cannot consist only of spaces or be left unfilled., size must be between 2 and 50, First name: filled incorrectly. It cannot consist only of spaces or be left unfilled., Date cannot be left unfilled., size must be between 2 and 50]
+2024-10-22 21:03:36.212 [http-nio-8080-exec-1] INFO  project - DirectorController:createDirector() Received request to create director: CreateDirectorRequestDTO(firstName=, lastName=, biography=American director, producer, and writer known for her intense and suspenseful films. She made history by becoming the first woman to win the Academy Award for Best Director., birthDate=null)
+2024-10-22 21:03:36.258 [http-nio-8080-exec-1] ERROR project - RequestDTOValidator:validate() Validation failed for object: CreateDirectorRequestDTO(firstName=, lastName=, biography=American director, producer, and writer known for her intense and suspenseful films. She made history by becoming the first woman to win the Academy Award for Best Director., birthDate=null). Errors: [size must be between 2 and 50, Last name: filled incorrectly. It cannot consist only of spaces or be left unfilled., First name: filled incorrectly. It cannot consist only of spaces or be left unfilled., Date cannot be left unfilled.]
+2024-10-22 21:03:38.851 [http-nio-8080-exec-4] INFO  project - DirectorController:createDirector() Received request to create director: CreateDirectorRequestDTO(firstName=, lastName=, biography=American director, producer, and writer known for her intense and suspenseful films. She made history by becoming the first woman to win the Academy Award for Best Director., birthDate=null)
+2024-10-22 21:03:38.852 [http-nio-8080-exec-4] ERROR project - RequestDTOValidator:validate() Validation failed for object: CreateDirectorRequestDTO(firstName=, lastName=, biography=American director, producer, and writer known for her intense and suspenseful films. She made history by becoming the first woman to win the Academy Award for Best Director., birthDate=null). Errors: [size must be between 2 and 50, Last name: filled incorrectly. It cannot consist only of spaces or be left unfilled., First name: filled incorrectly. It cannot consist only of spaces or be left unfilled., Date cannot be left unfilled.]
+2024-10-22 21:03:39.936 [http-nio-8080-exec-6] INFO  project - DirectorController:createDirector() Received request to create director: CreateDirectorRequestDTO(firstName=, lastName=, biography=American director, producer, and writer known for her intense and suspenseful films. She made history by becoming the first woman to win the Academy Award for Best Director., birthDate=null)
+2024-10-22 21:03:39.937 [http-nio-8080-exec-6] ERROR project - RequestDTOValidator:validate() Validation failed for object: CreateDirectorRequestDTO(firstName=, lastName=, biography=American director, producer, and writer known for her intense and suspenseful films. She made history by becoming the first woman to win the Academy Award for Best Director., birthDate=null). Errors: [size must be between 2 and 50, Last name: filled incorrectly. It cannot consist only of spaces or be left unfilled., First name: filled incorrectly. It cannot consist only of spaces or be left unfilled., Date cannot be left unfilled.]
+2024-10-22 21:03:41.017 [http-nio-8080-exec-8] INFO  project - DirectorController:createDirector() Received request to create director: CreateDirectorRequestDTO(firstName=, lastName=, biography=American director, producer, and writer known for her intense and suspenseful films. She made history by becoming the first woman to win the Academy Award for Best Director., birthDate=null)
+2024-10-22 21:03:41.018 [http-nio-8080-exec-8] ERROR project - RequestDTOValidator:validate() Validation failed for object: CreateDirectorRequestDTO(firstName=, lastName=, biography=American director, producer, and writer known for her intense and suspenseful films. She made history by becoming the first woman to win the Academy Award for Best Director., birthDate=null). Errors: [size must be between 2 and 50, Last name: filled incorrectly. It cannot consist only of spaces or be left unfilled., First name: filled incorrectly. It cannot consist only of spaces or be left unfilled., Date cannot be left unfilled.]
+2024-10-22 21:03:47.922 [http-nio-8080-exec-10] INFO  project - DirectorController:createDirector() Received request to create director: CreateDirectorRequestDTO(firstName=, lastName=, biography=American director, producer, and writer known for her intense and suspenseful films. She made history by becoming the first woman to win the Academy Award for Best Director., birthDate=null)
+2024-10-22 21:03:47.923 [http-nio-8080-exec-10] ERROR project - RequestDTOValidator:validate() Validation failed for object: CreateDirectorRequestDTO(firstName=, lastName=, biography=American director, producer, and writer known for her intense and suspenseful films. She made history by becoming the first woman to win the Academy Award for Best Director., birthDate=null). Errors: [size must be between 2 and 50, Last name: filled incorrectly. It cannot consist only of spaces or be left unfilled., First name: filled incorrectly. It cannot consist only of spaces or be left unfilled., Date cannot be left unfilled.]
+2024-10-22 21:04:08.437 [http-nio-8080-exec-1] ERROR project - GlobalExceptionHandler:handleException() An exception occurred: JSON parse error: Cannot deserialize value of type `java.time.LocalDate` from String "1": Failed to deserialize java.time.LocalDate: (java.time.format.DateTimeParseException) Text '1' could not be parsed at index 0
+2024-10-22 21:04:29.199 [http-nio-8080-exec-4] INFO  project - DirectorController:createDirector() Received request to create director: CreateDirectorRequestDTO(firstName=, lastName=, biography=American director, producer, and writer known for her intense and suspenseful films. She made history by becoming the first woman to win the Academy Award for Best Director., birthDate=null)
+2024-10-22 21:04:29.200 [http-nio-8080-exec-4] ERROR project - RequestDTOValidator:validate() Validation failed for object: CreateDirectorRequestDTO(firstName=, lastName=, biography=American director, producer, and writer known for her intense and suspenseful films. She made history by becoming the first woman to win the Academy Award for Best Director., birthDate=null). Errors: [size must be between 2 and 50, Last name: filled incorrectly. It cannot consist only of spaces or be left unfilled., First name: filled incorrectly. It cannot consist only of spaces or be left unfilled., Date cannot be left unfilled.]
+2024-10-22 23:09:54.933 [http-nio-8080-exec-5] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-22 23:09:54.936 [http-nio-8080-exec-5] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-22 23:09:55.574 [http-nio-8080-exec-5] INFO  project - DirectorServiceImpl:findAll() Retrieved 20 directors
+2024-10-22 23:09:55.576 [http-nio-8080-exec-5] INFO  project - DirectorController:getAll() Fetched 20 directors
+2024-10-22 23:10:06.825 [http-nio-8080-exec-7] INFO  project - DirectorController:deleteDirector() Received request to delete director by id: 20
+2024-10-22 23:10:06.940 [http-nio-8080-exec-7] INFO  project - Deleted director with id: 20
+2024-10-22 23:10:06.940 [http-nio-8080-exec-7] INFO  project - DirectorController:deleteDirector() Successfully deleted director by id: 20
+2024-10-22 23:10:08.241 [http-nio-8080-exec-8] INFO  project - DirectorController:deleteDirector() Received request to delete director by id: 20
+2024-10-22 23:10:08.243 [http-nio-8080-exec-8] ERROR project - Director not found with id: 20
+2024-10-22 23:10:08.244 [http-nio-8080-exec-8] ERROR project - GlobalExceptionHandler:handleException() An exception occurred: No such director
+2024-10-22 23:10:08.457 [http-nio-8080-exec-9] INFO  project - DirectorController:deleteDirector() Received request to delete director by id: 20
+2024-10-22 23:10:08.459 [http-nio-8080-exec-9] ERROR project - Director not found with id: 20
+2024-10-22 23:10:08.459 [http-nio-8080-exec-9] ERROR project - GlobalExceptionHandler:handleException() An exception occurred: No such director
+2024-10-22 23:10:15.246 [http-nio-8080-exec-10] INFO  project - DirectorController:deleteDirector() Received request to delete director by id: 20
+2024-10-22 23:10:15.248 [http-nio-8080-exec-10] ERROR project - Director not found with id: 20
+2024-10-22 23:10:15.248 [http-nio-8080-exec-10] ERROR project - GlobalExceptionHandler:handleException() An exception occurred: No such director
+2024-10-22 23:10:15.464 [http-nio-8080-exec-2] INFO  project - DirectorController:deleteDirector() Received request to delete director by id: 20
+2024-10-22 23:10:15.466 [http-nio-8080-exec-2] ERROR project - Director not found with id: 20
+2024-10-22 23:10:15.466 [http-nio-8080-exec-2] ERROR project - GlobalExceptionHandler:handleException() An exception occurred: No such director
+2024-10-22 23:13:45.664 [http-nio-8080-exec-3] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-22 23:13:45.664 [http-nio-8080-exec-3] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-22 23:13:45.683 [http-nio-8080-exec-3] INFO  project - DirectorServiceImpl:findAll() Retrieved 19 directors
+2024-10-22 23:13:45.683 [http-nio-8080-exec-3] INFO  project - DirectorController:getAll() Fetched 19 directors
+2024-10-22 23:13:45.687 [http-nio-8080-exec-4] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-22 23:13:45.688 [http-nio-8080-exec-4] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-22 23:13:45.745 [http-nio-8080-exec-4] INFO  project - DirectorServiceImpl:findAll() Retrieved 19 directors
+2024-10-22 23:13:45.746 [http-nio-8080-exec-4] INFO  project - DirectorController:getAll() Fetched 19 directors
+2024-10-22 23:13:54.166 [http-nio-8080-exec-6] INFO  project - DirectorController:deleteDirector() Received request to delete director by id: 19
+2024-10-22 23:13:54.171 [http-nio-8080-exec-6] INFO  project - Deleted director with id: 19
+2024-10-22 23:13:54.171 [http-nio-8080-exec-6] INFO  project - DirectorController:deleteDirector() Successfully deleted director by id: 19
+2024-10-22 23:13:56.097 [http-nio-8080-exec-7] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-22 23:13:56.098 [http-nio-8080-exec-7] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-22 23:13:56.120 [http-nio-8080-exec-7] INFO  project - DirectorServiceImpl:findAll() Retrieved 18 directors
+2024-10-22 23:13:56.120 [http-nio-8080-exec-7] INFO  project - DirectorController:getAll() Fetched 18 directors
+2024-10-22 23:13:56.124 [http-nio-8080-exec-8] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-22 23:13:56.124 [http-nio-8080-exec-8] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-22 23:13:56.137 [http-nio-8080-exec-8] INFO  project - DirectorServiceImpl:findAll() Retrieved 18 directors
+2024-10-22 23:13:56.145 [http-nio-8080-exec-8] INFO  project - DirectorController:getAll() Fetched 18 directors
+2024-10-22 23:14:06.359 [http-nio-8080-exec-10] INFO  project - DirectorController:deleteDirector() Received request to delete director by id: 18
+2024-10-22 23:14:06.362 [http-nio-8080-exec-10] INFO  project - Deleted director with id: 18
+2024-10-22 23:14:06.363 [http-nio-8080-exec-10] INFO  project - DirectorController:deleteDirector() Successfully deleted director by id: 18
+2024-10-22 23:14:09.176 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-22 23:14:09.176 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-22 23:14:09.185 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieved 17 directors
+2024-10-22 23:14:09.185 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Fetched 17 directors
+2024-10-22 23:14:09.188 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-22 23:14:09.189 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-22 23:14:09.237 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieved 17 directors
+2024-10-22 23:14:09.237 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Fetched 17 directors
+2024-10-22 23:15:13.472 [http-nio-8080-exec-6] INFO  project - DirectorController:deleteDirector() Received request to delete director by id: 17
+2024-10-22 23:15:13.477 [http-nio-8080-exec-6] INFO  project - Deleted director with id: 17
+2024-10-22 23:15:13.477 [http-nio-8080-exec-6] INFO  project - DirectorController:deleteDirector() Successfully deleted director by id: 17
+2024-10-22 23:15:14.008 [http-nio-8080-exec-7] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-22 23:15:14.008 [http-nio-8080-exec-7] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-22 23:15:14.016 [http-nio-8080-exec-7] INFO  project - DirectorServiceImpl:findAll() Retrieved 16 directors
+2024-10-22 23:15:14.016 [http-nio-8080-exec-7] INFO  project - DirectorController:getAll() Fetched 16 directors
+2024-10-22 23:15:14.019 [http-nio-8080-exec-8] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-22 23:15:14.019 [http-nio-8080-exec-8] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-22 23:15:14.027 [http-nio-8080-exec-8] INFO  project - DirectorServiceImpl:findAll() Retrieved 16 directors
+2024-10-22 23:15:14.027 [http-nio-8080-exec-8] INFO  project - DirectorController:getAll() Fetched 16 directors
+2024-10-22 23:15:16.161 [http-nio-8080-exec-10] INFO  project - DirectorController:deleteDirector() Received request to delete director by id: 16
+2024-10-22 23:15:16.174 [http-nio-8080-exec-10] INFO  project - Deleted director with id: 16
+2024-10-22 23:15:16.174 [http-nio-8080-exec-10] INFO  project - DirectorController:deleteDirector() Successfully deleted director by id: 16
+2024-10-22 23:15:16.262 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-22 23:15:16.262 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-22 23:15:16.269 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieved 15 directors
+2024-10-22 23:15:16.270 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Fetched 15 directors
+2024-10-22 23:15:16.281 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-22 23:15:16.281 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-22 23:15:16.288 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieved 15 directors
+2024-10-22 23:15:16.288 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Fetched 15 directors
+2024-10-22 23:15:17.915 [http-nio-8080-exec-4] INFO  project - DirectorController:deleteDirector() Received request to delete director by id: 15
+2024-10-22 23:15:17.918 [http-nio-8080-exec-4] INFO  project - Deleted director with id: 15
+2024-10-22 23:15:17.918 [http-nio-8080-exec-4] INFO  project - DirectorController:deleteDirector() Successfully deleted director by id: 15
+2024-10-22 23:15:17.987 [http-nio-8080-exec-5] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-22 23:15:17.987 [http-nio-8080-exec-5] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-22 23:15:17.993 [http-nio-8080-exec-5] INFO  project - DirectorServiceImpl:findAll() Retrieved 14 directors
+2024-10-22 23:15:17.994 [http-nio-8080-exec-5] INFO  project - DirectorController:getAll() Fetched 14 directors
+2024-10-22 23:15:17.996 [http-nio-8080-exec-6] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-22 23:15:17.996 [http-nio-8080-exec-6] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-22 23:15:18.003 [http-nio-8080-exec-6] INFO  project - DirectorServiceImpl:findAll() Retrieved 14 directors
+2024-10-22 23:15:18.003 [http-nio-8080-exec-6] INFO  project - DirectorController:getAll() Fetched 14 directors
+2024-10-22 23:15:19.062 [http-nio-8080-exec-8] INFO  project - DirectorController:deleteDirector() Received request to delete director by id: 14
+2024-10-22 23:15:19.064 [http-nio-8080-exec-8] INFO  project - Deleted director with id: 14
+2024-10-22 23:15:19.065 [http-nio-8080-exec-8] INFO  project - DirectorController:deleteDirector() Successfully deleted director by id: 14
+2024-10-22 23:15:19.117 [http-nio-8080-exec-9] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-22 23:15:19.117 [http-nio-8080-exec-9] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-22 23:15:19.123 [http-nio-8080-exec-9] INFO  project - DirectorServiceImpl:findAll() Retrieved 13 directors
+2024-10-22 23:15:19.123 [http-nio-8080-exec-9] INFO  project - DirectorController:getAll() Fetched 13 directors
+2024-10-22 23:15:19.125 [http-nio-8080-exec-10] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-22 23:15:19.126 [http-nio-8080-exec-10] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-22 23:15:19.132 [http-nio-8080-exec-10] INFO  project - DirectorServiceImpl:findAll() Retrieved 13 directors
+2024-10-22 23:15:19.133 [http-nio-8080-exec-10] INFO  project - DirectorController:getAll() Fetched 13 directors
+2024-10-22 23:15:20.718 [http-nio-8080-exec-1] INFO  project - DirectorController:deleteDirector() Received request to delete director by id: 13
+2024-10-22 23:15:20.721 [http-nio-8080-exec-1] INFO  project - Deleted director with id: 13
+2024-10-22 23:15:20.721 [http-nio-8080-exec-1] INFO  project - DirectorController:deleteDirector() Successfully deleted director by id: 13
+2024-10-22 23:15:20.770 [http-nio-8080-exec-3] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-22 23:15:20.770 [http-nio-8080-exec-3] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-22 23:15:20.776 [http-nio-8080-exec-3] INFO  project - DirectorServiceImpl:findAll() Retrieved 12 directors
+2024-10-22 23:15:20.777 [http-nio-8080-exec-3] INFO  project - DirectorController:getAll() Fetched 12 directors
+2024-10-22 23:15:20.779 [http-nio-8080-exec-4] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-22 23:15:20.780 [http-nio-8080-exec-4] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-22 23:15:20.785 [http-nio-8080-exec-4] INFO  project - DirectorServiceImpl:findAll() Retrieved 12 directors
+2024-10-22 23:15:20.785 [http-nio-8080-exec-4] INFO  project - DirectorController:getAll() Fetched 12 directors
+2024-10-22 23:15:22.485 [http-nio-8080-exec-6] INFO  project - DirectorController:deleteDirector() Received request to delete director by id: 12
+2024-10-22 23:15:22.487 [http-nio-8080-exec-6] INFO  project - Deleted director with id: 12
+2024-10-22 23:15:22.487 [http-nio-8080-exec-6] INFO  project - DirectorController:deleteDirector() Successfully deleted director by id: 12
+2024-10-22 23:15:22.537 [http-nio-8080-exec-7] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-22 23:15:22.537 [http-nio-8080-exec-7] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-22 23:15:22.542 [http-nio-8080-exec-7] INFO  project - DirectorServiceImpl:findAll() Retrieved 11 directors
+2024-10-22 23:15:22.542 [http-nio-8080-exec-7] INFO  project - DirectorController:getAll() Fetched 11 directors
+2024-10-22 23:15:22.544 [http-nio-8080-exec-8] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-22 23:15:22.544 [http-nio-8080-exec-8] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-22 23:15:22.550 [http-nio-8080-exec-8] INFO  project - DirectorServiceImpl:findAll() Retrieved 11 directors
+2024-10-22 23:15:22.550 [http-nio-8080-exec-8] INFO  project - DirectorController:getAll() Fetched 11 directors
+2024-10-22 23:15:23.500 [http-nio-8080-exec-10] INFO  project - DirectorController:deleteDirector() Received request to delete director by id: 11
+2024-10-22 23:15:23.503 [http-nio-8080-exec-10] INFO  project - Deleted director with id: 11
+2024-10-22 23:15:23.504 [http-nio-8080-exec-10] INFO  project - DirectorController:deleteDirector() Successfully deleted director by id: 11
+2024-10-22 23:15:23.554 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-22 23:15:23.554 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-22 23:15:23.560 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-22 23:15:23.561 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-22 23:15:23.563 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-22 23:15:23.563 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-22 23:15:23.568 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-22 23:15:23.569 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-24 01:01:53.143 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-24 01:01:53.144 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-24 01:01:53.256 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-24 01:01:53.257 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-24 01:01:53.318 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-24 01:01:53.318 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-24 01:01:53.325 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-24 01:01:53.326 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-24 01:27:04.899 [http-nio-8080-exec-5] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-24 01:27:04.899 [http-nio-8080-exec-5] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-24 01:27:04.908 [http-nio-8080-exec-5] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-24 01:27:04.909 [http-nio-8080-exec-5] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-24 01:27:04.912 [http-nio-8080-exec-6] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-24 01:27:04.912 [http-nio-8080-exec-6] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-24 01:27:04.919 [http-nio-8080-exec-6] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-24 01:27:04.919 [http-nio-8080-exec-6] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-24 01:28:11.561 [http-nio-8080-exec-9] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-24 01:28:11.562 [http-nio-8080-exec-9] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-24 01:28:11.568 [http-nio-8080-exec-9] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-24 01:28:11.568 [http-nio-8080-exec-9] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-24 01:28:11.572 [http-nio-8080-exec-10] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-24 01:28:11.572 [http-nio-8080-exec-10] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-24 01:28:11.578 [http-nio-8080-exec-10] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-24 01:28:11.579 [http-nio-8080-exec-10] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-24 19:15:24.805 [http-nio-8080-exec-4] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-24 19:15:24.806 [http-nio-8080-exec-4] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-24 19:15:24.996 [http-nio-8080-exec-4] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-24 19:15:24.996 [http-nio-8080-exec-4] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-24 19:15:25.005 [http-nio-8080-exec-3] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-24 19:15:25.005 [http-nio-8080-exec-3] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-24 19:15:25.013 [http-nio-8080-exec-3] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-24 19:15:25.013 [http-nio-8080-exec-3] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-24 19:24:05.780 [http-nio-8080-exec-8] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-24 19:24:05.780 [http-nio-8080-exec-8] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-24 19:24:05.789 [http-nio-8080-exec-8] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-24 19:24:05.789 [http-nio-8080-exec-8] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-24 19:24:05.793 [http-nio-8080-exec-7] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-24 19:24:05.793 [http-nio-8080-exec-7] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-24 19:24:05.798 [http-nio-8080-exec-7] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-24 19:24:05.798 [http-nio-8080-exec-7] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-24 19:24:06.882 [http-nio-8080-exec-9] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-24 19:24:06.882 [http-nio-8080-exec-9] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-24 19:24:06.887 [http-nio-8080-exec-9] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-24 19:24:06.887 [http-nio-8080-exec-9] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-24 19:24:06.918 [http-nio-8080-exec-10] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-24 19:24:06.918 [http-nio-8080-exec-10] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-24 19:24:06.931 [http-nio-8080-exec-10] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-24 19:24:06.931 [http-nio-8080-exec-10] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-24 20:27:11.195 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-24 20:27:11.195 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-24 20:27:11.317 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-24 20:27:11.318 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-24 20:27:11.393 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-24 20:27:11.394 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-24 20:27:11.401 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-24 20:27:11.401 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-24 20:27:14.266 [http-nio-8080-exec-3] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-24 20:27:14.266 [http-nio-8080-exec-3] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-24 20:27:14.272 [http-nio-8080-exec-3] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-24 20:27:14.272 [http-nio-8080-exec-3] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-24 20:27:14.275 [http-nio-8080-exec-4] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-24 20:27:14.275 [http-nio-8080-exec-4] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-24 20:27:14.281 [http-nio-8080-exec-4] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-24 20:27:14.281 [http-nio-8080-exec-4] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-24 20:28:17.319 [http-nio-8080-exec-7] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-24 20:28:17.319 [http-nio-8080-exec-7] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-24 20:28:17.326 [http-nio-8080-exec-7] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-24 20:28:17.326 [http-nio-8080-exec-7] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-24 20:28:17.330 [http-nio-8080-exec-8] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-24 20:28:17.330 [http-nio-8080-exec-8] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-24 20:28:17.339 [http-nio-8080-exec-8] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-24 20:28:17.339 [http-nio-8080-exec-8] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-24 20:28:42.741 [http-nio-8080-exec-9] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-24 20:28:42.741 [http-nio-8080-exec-9] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-24 20:28:42.748 [http-nio-8080-exec-9] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-24 20:28:42.748 [http-nio-8080-exec-9] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-24 20:28:42.751 [http-nio-8080-exec-10] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-24 20:28:42.751 [http-nio-8080-exec-10] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-24 20:28:42.759 [http-nio-8080-exec-10] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-24 20:28:42.759 [http-nio-8080-exec-10] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-24 21:10:35.630 [http-nio-8080-exec-3] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-24 21:10:35.630 [http-nio-8080-exec-3] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-24 21:10:35.643 [http-nio-8080-exec-3] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-24 21:10:35.644 [http-nio-8080-exec-3] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-24 21:10:35.647 [http-nio-8080-exec-4] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-24 21:10:35.648 [http-nio-8080-exec-4] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-24 21:10:35.653 [http-nio-8080-exec-4] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-24 21:10:35.653 [http-nio-8080-exec-4] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-24 21:42:47.134 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-24 21:42:47.135 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-24 21:42:47.246 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-24 21:42:47.247 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-24 21:42:47.309 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-24 21:42:47.309 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-24 21:42:47.316 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-24 21:42:47.316 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-25 00:22:50.363 [http-nio-8080-exec-2] INFO  project - DirectorController:createDirector() Received request to create director: CreateDirectorRequestDTO(firstName=, lastName=, biography=American director, producer, and writer known for her intense and suspenseful films. She made history by becoming the first woman to win the Academy Award for Best Director., birthDate=null)
+2024-10-25 00:22:50.411 [http-nio-8080-exec-2] ERROR project - RequestDTOValidator:validate() Validation failed for object: CreateDirectorRequestDTO(firstName=, lastName=, biography=American director, producer, and writer known for her intense and suspenseful films. She made history by becoming the first woman to win the Academy Award for Best Director., birthDate=null). Errors: [size must be between 2 and 50, Last name: filled incorrectly. It cannot consist only of spaces or be left unfilled., First name: filled incorrectly. It cannot consist only of spaces or be left unfilled., Date cannot be left unfilled.]
+2024-10-25 00:22:57.662 [http-nio-8080-exec-4] INFO  project - DirectorController:createDirector() Received request to create director: CreateDirectorRequestDTO(firstName=, lastName=, biography=American director, producer, and writer known for her intense and suspenseful films. She made history by becoming the first woman to win the Academy Award for Best Director., birthDate=null)
+2024-10-25 00:22:57.663 [http-nio-8080-exec-4] ERROR project - RequestDTOValidator:validate() Validation failed for object: CreateDirectorRequestDTO(firstName=, lastName=, biography=American director, producer, and writer known for her intense and suspenseful films. She made history by becoming the first woman to win the Academy Award for Best Director., birthDate=null). Errors: [size must be between 2 and 50, Last name: filled incorrectly. It cannot consist only of spaces or be left unfilled., First name: filled incorrectly. It cannot consist only of spaces or be left unfilled., Date cannot be left unfilled.]
+2024-10-25 00:22:59.241 [http-nio-8080-exec-6] INFO  project - DirectorController:createDirector() Received request to create director: CreateDirectorRequestDTO(firstName=, lastName=, biography=American director, producer, and writer known for her intense and suspenseful films. She made history by becoming the first woman to win the Academy Award for Best Director., birthDate=null)
+2024-10-25 00:22:59.242 [http-nio-8080-exec-6] ERROR project - RequestDTOValidator:validate() Validation failed for object: CreateDirectorRequestDTO(firstName=, lastName=, biography=American director, producer, and writer known for her intense and suspenseful films. She made history by becoming the first woman to win the Academy Award for Best Director., birthDate=null). Errors: [size must be between 2 and 50, Last name: filled incorrectly. It cannot consist only of spaces or be left unfilled., First name: filled incorrectly. It cannot consist only of spaces or be left unfilled., Date cannot be left unfilled.]
+2024-10-25 00:24:27.423 [http-nio-8080-exec-7] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-25 00:24:27.423 [http-nio-8080-exec-7] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-25 00:24:27.541 [http-nio-8080-exec-7] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-25 00:24:27.542 [http-nio-8080-exec-7] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-25 00:24:27.552 [http-nio-8080-exec-8] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-25 00:24:27.552 [http-nio-8080-exec-8] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-25 00:24:27.559 [http-nio-8080-exec-8] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-25 00:24:27.559 [http-nio-8080-exec-8] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-25 00:24:46.040 [http-nio-8080-exec-10] INFO  project - DirectorController:createDirector() Received request to create director: CreateDirectorRequestDTO(firstName=Marko, lastName=Strutynskyi, biography=, birthDate=2004-11-16)
+2024-10-25 00:24:46.109 [http-nio-8080-exec-10] INFO  project - DirectorServiceImpl:save() Saved new director with id: 21
+2024-10-25 00:24:46.109 [http-nio-8080-exec-10] INFO  project - DirectorController:createDirector() Successfully created director with id: 21
+2024-10-25 00:24:46.244 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-25 00:24:46.245 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-25 00:24:46.254 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieved 11 directors
+2024-10-25 00:24:46.254 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Fetched 11 directors
+2024-10-25 00:24:46.258 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-25 00:24:46.258 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-25 00:24:46.265 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieved 11 directors
+2024-10-25 00:24:46.265 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Fetched 11 directors
+2024-10-25 00:24:53.933 [http-nio-8080-exec-4] INFO  project - DirectorController:deleteDirector() Received request to delete director by id: 21
+2024-10-25 00:24:53.960 [http-nio-8080-exec-4] INFO  project - Deleted director with id: 21
+2024-10-25 00:24:53.960 [http-nio-8080-exec-4] INFO  project - DirectorController:deleteDirector() Successfully deleted director by id: 21
+2024-10-25 00:24:54.329 [http-nio-8080-exec-5] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-25 00:24:54.329 [http-nio-8080-exec-5] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-25 00:24:54.336 [http-nio-8080-exec-5] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-25 00:24:54.336 [http-nio-8080-exec-5] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-25 00:24:54.339 [http-nio-8080-exec-6] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-25 00:24:54.340 [http-nio-8080-exec-6] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-25 00:24:54.349 [http-nio-8080-exec-6] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-25 00:24:54.350 [http-nio-8080-exec-6] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-25 00:25:43.758 [http-nio-8080-exec-7] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-25 00:25:43.758 [http-nio-8080-exec-7] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-25 00:25:43.765 [http-nio-8080-exec-7] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-25 00:25:43.765 [http-nio-8080-exec-7] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-25 00:25:43.768 [http-nio-8080-exec-8] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-25 00:25:43.768 [http-nio-8080-exec-8] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-25 00:25:43.775 [http-nio-8080-exec-8] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-25 00:25:43.775 [http-nio-8080-exec-8] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-25 00:26:26.900 [http-nio-8080-exec-9] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-25 00:26:26.900 [http-nio-8080-exec-9] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-25 00:26:26.905 [http-nio-8080-exec-9] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-25 00:26:26.905 [http-nio-8080-exec-9] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-25 00:26:26.909 [http-nio-8080-exec-10] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-25 00:26:26.909 [http-nio-8080-exec-10] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-25 00:26:26.916 [http-nio-8080-exec-10] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-25 00:26:26.916 [http-nio-8080-exec-10] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-25 18:38:40.299 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-25 18:38:40.299 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-25 18:38:40.406 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-25 18:38:40.407 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-25 18:38:40.468 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-25 18:38:40.468 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-25 18:38:40.474 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-25 18:38:40.475 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-25 19:06:24.762 [http-nio-8080-exec-5] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-25 19:06:24.762 [http-nio-8080-exec-5] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-25 19:06:24.770 [http-nio-8080-exec-5] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-25 19:06:24.771 [http-nio-8080-exec-5] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-25 19:06:24.775 [http-nio-8080-exec-6] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-25 19:06:24.775 [http-nio-8080-exec-6] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-25 19:06:24.782 [http-nio-8080-exec-6] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-25 19:06:24.782 [http-nio-8080-exec-6] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-25 19:46:14.135 [http-nio-8080-exec-10] INFO  project - MovieController:getAll() Received request to fetch all movies
+2024-10-25 19:46:14.136 [http-nio-8080-exec-10] INFO  project - MovieServiceImpl:findAll() Retrieving all movies from repository
+2024-10-25 19:46:14.146 [http-nio-8080-exec-10] INFO  project - MovieServiceImpl:findAll() Retrieved 0 movies
+2024-10-25 19:46:14.147 [http-nio-8080-exec-10] INFO  project - MovieController:getAll() Fetched 0 movies
+2024-10-25 19:46:45.868 [http-nio-8080-exec-1] INFO  project - MovieController:createMovie() Received request to create movie
+2024-10-25 19:46:45.928 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findById() Director with id 1 found in repository
+2024-10-25 19:46:46.002 [http-nio-8080-exec-1] INFO  project - MovieServiceImpl:save() Saved new movie with id: 1
+2024-10-25 19:46:46.003 [http-nio-8080-exec-1] INFO  project - MovieController:createMovie() Created movie with id: 1
+2024-10-25 19:46:54.021 [http-nio-8080-exec-2] INFO  project - MovieController:createMovie() Received request to create movie
+2024-10-25 19:46:54.025 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findById() Director with id 1 found in repository
+2024-10-25 19:46:54.037 [http-nio-8080-exec-2] INFO  project - MovieServiceImpl:save() Saved new movie with id: 2
+2024-10-25 19:46:54.037 [http-nio-8080-exec-2] INFO  project - MovieController:createMovie() Created movie with id: 2
+2024-10-25 19:47:05.204 [http-nio-8080-exec-4] INFO  project - MovieController:createMovie() Received request to create movie
+2024-10-25 19:47:05.207 [http-nio-8080-exec-4] INFO  project - DirectorServiceImpl:findById() Director with id 1 found in repository
+2024-10-25 19:47:05.212 [http-nio-8080-exec-4] INFO  project - MovieServiceImpl:save() Saved new movie with id: 3
+2024-10-25 19:47:05.212 [http-nio-8080-exec-4] INFO  project - MovieController:createMovie() Created movie with id: 3
+2024-10-25 19:47:12.470 [http-nio-8080-exec-3] INFO  project - MovieController:getAll() Received request to fetch all movies
+2024-10-25 19:47:12.470 [http-nio-8080-exec-3] INFO  project - MovieServiceImpl:findAll() Retrieving all movies from repository
+2024-10-25 19:47:12.477 [http-nio-8080-exec-3] INFO  project - MovieServiceImpl:findAll() Retrieved 3 movies
+2024-10-25 19:47:12.478 [http-nio-8080-exec-3] INFO  project - MovieController:getAll() Fetched 3 movies
+2024-10-25 19:47:21.060 [http-nio-8080-exec-5] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-25 19:47:21.061 [http-nio-8080-exec-5] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-25 19:47:21.070 [http-nio-8080-exec-5] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-25 19:47:21.070 [http-nio-8080-exec-5] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-25 19:47:21.074 [http-nio-8080-exec-6] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-25 19:47:21.074 [http-nio-8080-exec-6] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-25 19:47:21.085 [http-nio-8080-exec-6] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-25 19:47:21.086 [http-nio-8080-exec-6] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-25 20:33:30.725 [http-nio-8080-exec-10] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-25 20:33:30.727 [http-nio-8080-exec-10] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-25 20:33:30.761 [http-nio-8080-exec-10] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-25 20:33:30.761 [http-nio-8080-exec-10] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-25 20:33:40.624 [http-nio-8080-exec-2] INFO  project - DirectorController:updateDirector() Received request to update director by id: 1
+2024-10-25 20:33:40.708 [http-nio-8080-exec-2] ERROR project - GlobalExceptionHandler:handleException() An exception occurred: could not execute statement [ERROR: value too long for type character varying(255)] [update director set biography=?,birth_date=?,first_name=?,last_name=? where id=?]; SQL [update director set biography=?,birth_date=?,first_name=?,last_name=? where id=?]
+2024-10-25 20:40:54.905 [http-nio-8080-exec-3] INFO  project - DirectorController:updateDirector() Received request to update director by id: 1
+2024-10-25 20:40:54.922 [http-nio-8080-exec-3] INFO  project - Updated director with id: 1
+2024-10-25 20:40:54.922 [http-nio-8080-exec-3] INFO  project - DirectorController:updateDirector() Successfully updated director: DirectorDTO(id=1, firstName=Christopher, lastName=Nolan, biography=Christopher Nolan is a British-American filmmaker known for his intellectually challenging and visually striking films. Born on July 30, 1970, in London, he gained early recognition with *Memento* (2000), a thriller that explores themes of memory and time. His popularity soared with *The Dark Knight* trilogy (*Batman Begins*, *The Dark Knight*, *The Dark Knight Rises*), as well as films like *Inception*, *Interstellar*, and *Dunkirk*. Nolan’s work often examines themes of time, consciousness, and reality, making him one of the most influential directors of his generation., birthDate=1970-07-30, movies=[MovieDTO(id=1, title=Oppenheimer, genre=Thriller, releaseDate=2024-09-12, duration=PT3H, director=MovieDTO.DirectorDTO(id=1)), MovieDTO(id=2, title=Tenet, genre=Action, releaseDate=2024-09-12, duration=PT2H30M, director=MovieDTO.DirectorDTO(id=1)), MovieDTO(id=3, title=Dunkirk, genre=Action, releaseDate=2017-07-19, duration=PT1H46M, director=MovieDTO.DirectorDTO(id=1))])
+2024-10-25 20:41:00.025 [http-nio-8080-exec-5] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-25 20:41:00.025 [http-nio-8080-exec-5] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-25 20:41:00.033 [http-nio-8080-exec-5] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-25 20:41:00.033 [http-nio-8080-exec-5] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-25 20:41:00.037 [http-nio-8080-exec-6] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-25 20:41:00.037 [http-nio-8080-exec-6] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-25 20:41:00.043 [http-nio-8080-exec-6] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-25 20:41:00.043 [http-nio-8080-exec-6] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-25 20:42:17.043 [http-nio-8080-exec-10] INFO  project - DirectorController:updateDirector() Received request to update director by id: 1
+2024-10-25 20:42:17.048 [http-nio-8080-exec-10] INFO  project - Updated director with id: 1
+2024-10-25 20:42:17.048 [http-nio-8080-exec-10] INFO  project - DirectorController:updateDirector() Successfully updated director: DirectorDTO(id=1, firstName=Christopher, lastName=Nolan, biography=Christopher Nolan is a British-American filmmaker known for his complex narratives and visual mastery. Born on July 30, 1970, in London, he developed an interest in storytelling at an early age. Nolan pursued English literature at University College London, where he also began making short films. His breakthrough came in 2000 with *Memento*, a thriller told in reverse that won critical acclaim and showcased his unique narrative style. In 2005, Nolan directed *Batman Begins*, revitalizing the Batman franchise with a dark, realistic approach. This success led to *The Dark Knight* (2008) and *The Dark Knight Rises* (2012), cementing his status as a visionary director. Nolan’s 2010 film *Inception*, a mind-bending journey through dreams, achieved global success, as did *Interstellar* (2014), a space epic exploring human survival.In 2017, he directed *Dunkirk*, a WWII drama praised for its realism and tension, earning him an Academy Award nomination. Known for practical effects, minimal CGI, and deep philosophical themes, Nolan’s films challenge viewers with intricate plots, making him one of the most respected modern filmmakers. His recent work includes *Tenet* (2020) and *Oppenheimer* (2023), solidifying his place as a leading cinematic force., birthDate=1970-07-30, movies=[MovieDTO(id=1, title=Oppenheimer, genre=Thriller, releaseDate=2024-09-12, duration=PT3H, director=MovieDTO.DirectorDTO(id=1)), MovieDTO(id=2, title=Tenet, genre=Action, releaseDate=2024-09-12, duration=PT2H30M, director=MovieDTO.DirectorDTO(id=1)), MovieDTO(id=3, title=Dunkirk, genre=Action, releaseDate=2017-07-19, duration=PT1H46M, director=MovieDTO.DirectorDTO(id=1))])
+2024-10-25 20:42:19.759 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-25 20:42:19.759 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-25 20:42:19.769 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-25 20:42:19.769 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-25 20:42:19.772 [http-nio-8080-exec-4] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-25 20:42:19.773 [http-nio-8080-exec-4] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-25 20:42:19.779 [http-nio-8080-exec-4] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-25 20:42:19.779 [http-nio-8080-exec-4] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-26 16:06:56.938 [http-nio-8080-exec-2] INFO  project - DirectorController:updateDirector() Received request to update director by id: 1
+2024-10-26 16:06:57.154 [http-nio-8080-exec-2] INFO  project - Updated director with id: 1
+2024-10-26 16:06:57.156 [http-nio-8080-exec-2] INFO  project - DirectorController:updateDirector() Successfully updated director: DirectorDTO(id=1, firstName=Christopher, lastName=Nolan, biography=Christopher Nolan is a British-American filmmaker known for his complex narratives and visual mastery. Born on July 30, 1970, in London, he developed an interest in storytelling at an early age. Nolan pursued English literature at University College London, where he also began making short films. His breakthrough came in 2000 with *Memento*, a thriller told in reverse that won critical acclaim and showcased his unique narrative style. In 2005, Nolan directed *Batman Begins*, revitalizing the Batman franchise with a dark, realistic approach. This success led to *The Dark Knight* (2008) and *The Dark Knight Rises* (2012), cementing his status as a visionary director. Nolan’s 2010 film *Inception*, a mind-bending journey through dreams, achieved global success, as did *Interstellar* (2014), a space epic exploring human survival.In 2017, he directed *Dunkirk*, a WWII drama praised for its realism and tension, earning him an Academy Award nomination. Known for practical effects, minimal CGI, and deep philosophical themes, Nolan’s films challenge viewers with intricate plots, making him one of the most respected modern filmmakers. His recent work includes *Tenet* (2020) and *Oppenheimer* (2023), solidifying his place as a leading cinematic force., birthDate=1970-07-30, movies=[MovieDTO(id=1, title=Oppenheimer, genre=Thriller, releaseDate=2024-09-12, duration=PT3H, director=MovieDTO.DirectorDTO(id=1)), MovieDTO(id=2, title=Tenet, genre=Action, releaseDate=2024-09-12, duration=PT2H30M, director=MovieDTO.DirectorDTO(id=1)), MovieDTO(id=3, title=Dunkirk, genre=Action, releaseDate=2017-07-19, duration=PT1H46M, director=MovieDTO.DirectorDTO(id=1))])
+2024-10-26 16:24:38.924 [http-nio-8080-exec-2] INFO  project - DirectorController:updateDirector() Received request to update director by id: 1
+2024-10-26 16:24:39.046 [http-nio-8080-exec-2] INFO  project - Updated director with id: 1
+2024-10-26 16:24:39.047 [http-nio-8080-exec-2] INFO  project - DirectorController:updateDirector() Successfully updated director: DirectorDTO(id=1, firstName=Christopher, lastName=Nolan, biography=Christopher Nolan is a British-American filmmaker known for his complex narratives and visual mastery. Born on July 30, 1970, in London, he developed an interest in storytelling at an early age. Nolan pursued English literature at University College London, where he also began making short films. His breakthrough came in 2000 with *Memento*, a thriller told in reverse that won critical acclaim and showcased his unique narrative style. In 2005, Nolan directed *Batman Begins*, revitalizing the Batman franchise with a dark, realistic approach. This success led to *The Dark Knight* (2008) and *The Dark Knight Rises* (2012), cementing his status as a visionary director. Nolan’s 2010 film *Inception*, a mind-bending journey through dreams, achieved global success, as did *Interstellar* (2014), a space epic exploring human survival.In 2017, he directed *Dunkirk*, a WWII drama praised for its realism and tension, earning him an Academy Award nomination. Known for practical effects, minimal CGI, and deep philosophical themes, Nolan’s films challenge viewers with intricate plots, making him one of the most respected modern filmmakers. His recent work includes *Tenet* (2020) and *Oppenheimer* (2023), solidifying his place as a leading cinematic force., birthDate=1970-07-30, movies=[MovieDTO(id=1, title=Oppenheimer, genre=Thriller, releaseDate=2024-09-12, duration=PT3H, director=MovieDTO.DirectorDTO(id=1)), MovieDTO(id=2, title=Tenet, genre=Action, releaseDate=2024-09-12, duration=PT2H30M, director=MovieDTO.DirectorDTO(id=1)), MovieDTO(id=3, title=Dunkirk, genre=Action, releaseDate=2017-07-19, duration=PT1H46M, director=MovieDTO.DirectorDTO(id=1))])
+2024-10-26 16:25:21.476 [http-nio-8080-exec-3] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 16:25:21.476 [http-nio-8080-exec-3] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 16:25:21.531 [http-nio-8080-exec-3] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-26 16:25:21.532 [http-nio-8080-exec-3] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-26 16:25:21.538 [http-nio-8080-exec-4] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 16:25:21.538 [http-nio-8080-exec-4] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 16:25:21.547 [http-nio-8080-exec-4] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-26 16:25:21.547 [http-nio-8080-exec-4] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-26 17:55:23.100 [http-nio-8080-exec-2] INFO  project - DirectorController:updateDirector() Received request to update director by id: 2
+2024-10-26 17:55:23.234 [http-nio-8080-exec-2] INFO  project - Updated director with id: 2
+2024-10-26 17:55:23.235 [http-nio-8080-exec-2] INFO  project - DirectorController:updateDirector() Successfully updated director: DirectorDTO(id=2, firstName=Petro, lastName=Spielberg, biography=American film director, screenwriter, producer and editor.The highest-grossing director in the history of world cinema: his films collected more than 11 billion dollars at the box office, birthDate=1946-11-18, movies=[])
+2024-10-26 17:55:39.717 [http-nio-8080-exec-3] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 17:55:39.718 [http-nio-8080-exec-3] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 17:55:39.773 [http-nio-8080-exec-3] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-26 17:55:39.773 [http-nio-8080-exec-3] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-26 17:55:39.781 [http-nio-8080-exec-4] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 17:55:39.782 [http-nio-8080-exec-4] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 17:55:39.791 [http-nio-8080-exec-4] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-26 17:55:39.791 [http-nio-8080-exec-4] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-26 18:00:48.509 [http-nio-8080-exec-9] INFO  project - DirectorController:updateDirector() Received request to update director by id: 2
+2024-10-26 18:00:48.513 [http-nio-8080-exec-9] INFO  project - Updated director with id: 2
+2024-10-26 18:00:48.513 [http-nio-8080-exec-9] INFO  project - DirectorController:updateDirector() Successfully updated director: DirectorDTO(id=2, firstName=Petro, lastName=Spielberg, biography=, birthDate=1946-11-18, movies=[])
+2024-10-26 18:01:05.209 [http-nio-8080-exec-10] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:01:05.209 [http-nio-8080-exec-10] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:01:05.219 [http-nio-8080-exec-10] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-26 18:01:05.219 [http-nio-8080-exec-10] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-26 18:01:05.222 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:01:05.223 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:01:05.231 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-26 18:01:05.231 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-26 18:03:18.503 [http-nio-8080-exec-5] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:03:18.504 [http-nio-8080-exec-5] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:03:18.511 [http-nio-8080-exec-5] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-26 18:03:18.511 [http-nio-8080-exec-5] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-26 18:03:18.515 [http-nio-8080-exec-7] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:03:18.515 [http-nio-8080-exec-7] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:03:18.522 [http-nio-8080-exec-7] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-26 18:03:18.522 [http-nio-8080-exec-7] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-26 18:03:18.587 [http-nio-8080-exec-6] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:03:18.587 [http-nio-8080-exec-6] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:03:18.595 [http-nio-8080-exec-6] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-26 18:03:18.595 [http-nio-8080-exec-6] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-26 18:03:18.597 [http-nio-8080-exec-8] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:03:18.597 [http-nio-8080-exec-8] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:03:18.604 [http-nio-8080-exec-8] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-26 18:03:18.605 [http-nio-8080-exec-8] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-26 18:03:18.767 [http-nio-8080-exec-9] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:03:18.767 [http-nio-8080-exec-9] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:03:18.775 [http-nio-8080-exec-9] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-26 18:03:18.775 [http-nio-8080-exec-9] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-26 18:03:18.778 [http-nio-8080-exec-10] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:03:18.778 [http-nio-8080-exec-10] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:03:18.784 [http-nio-8080-exec-10] INFO  project - DirectorServiceImpl:findAll() Retrieved 10 directors
+2024-10-26 18:03:18.785 [http-nio-8080-exec-10] INFO  project - DirectorController:getAll() Fetched 10 directors
+2024-10-26 18:07:42.541 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:07:42.541 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:07:42.626 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieved 0 directors
+2024-10-26 18:07:42.627 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Fetched 0 directors
+2024-10-26 18:07:42.654 [http-nio-8080-exec-3] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:07:42.654 [http-nio-8080-exec-3] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:07:42.656 [http-nio-8080-exec-3] INFO  project - DirectorServiceImpl:findAll() Retrieved 0 directors
+2024-10-26 18:07:42.656 [http-nio-8080-exec-3] INFO  project - DirectorController:getAll() Fetched 0 directors
+2024-10-26 18:09:05.323 [http-nio-8080-exec-6] INFO  project - DirectorController:updateDirector() Received request to update director by id: 2
+2024-10-26 18:09:05.365 [http-nio-8080-exec-6] ERROR project - Director not found with id: 2
+2024-10-26 18:09:05.367 [http-nio-8080-exec-6] ERROR project - GlobalExceptionHandler:handleException() An exception occurred: No such director
+2024-10-26 18:09:15.946 [http-nio-8080-exec-7] INFO  project - DirectorController:createDirector() Received request to create director: CreateDirectorRequestDTO(firstName=Christopher, lastName=Nolan, biography=English film director, screenwriter and producer who has British and American citizenship. His 12 films have been critically acclaimed and have grossed over $4 billion at the box office, making him one of the most successful directors of our time., birthDate=1970-07-30)
+2024-10-26 18:09:16.002 [http-nio-8080-exec-7] INFO  project - DirectorServiceImpl:save() Saved new director with id: 1
+2024-10-26 18:09:16.002 [http-nio-8080-exec-7] INFO  project - DirectorController:createDirector() Successfully created director with id: 1
+2024-10-26 18:09:30.562 [http-nio-8080-exec-8] INFO  project - DirectorController:createDirector() Received request to create director: CreateDirectorRequestDTO(firstName=Steven, lastName=Spielberg, biography=American film director, screenwriter, producer and editor.The highest-grossing director in the history of world cinema: his films collected more than 11 billion dollars at the box office, birthDate=1946-11-18)
+2024-10-26 18:09:30.574 [http-nio-8080-exec-8] INFO  project - DirectorServiceImpl:save() Saved new director with id: 2
+2024-10-26 18:09:30.574 [http-nio-8080-exec-8] INFO  project - DirectorController:createDirector() Successfully created director with id: 2
+2024-10-26 18:09:34.215 [http-nio-8080-exec-9] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:09:34.215 [http-nio-8080-exec-9] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:09:34.219 [http-nio-8080-exec-9] INFO  project - DirectorServiceImpl:findAll() Retrieved 2 directors
+2024-10-26 18:09:34.219 [http-nio-8080-exec-9] INFO  project - DirectorController:getAll() Fetched 2 directors
+2024-10-26 18:09:34.227 [http-nio-8080-exec-10] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:09:34.228 [http-nio-8080-exec-10] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:09:34.231 [http-nio-8080-exec-10] INFO  project - DirectorServiceImpl:findAll() Retrieved 2 directors
+2024-10-26 18:09:34.231 [http-nio-8080-exec-10] INFO  project - DirectorController:getAll() Fetched 2 directors
+2024-10-26 18:10:42.427 [http-nio-8080-exec-5] INFO  project - DirectorController:updateDirector() Received request to update director by id: 1
+2024-10-26 18:10:42.440 [http-nio-8080-exec-5] INFO  project - Updated director with id: 1
+2024-10-26 18:10:42.440 [http-nio-8080-exec-5] INFO  project - DirectorController:updateDirector() Successfully updated director: DirectorDTO(id=1, firstName=Christopher, lastName=Nolan, biography=English film director, screenwriter and producer who has British and American citizenship. His 12 films have been critically acclaimed and have grossed over $4 billion at the box office, making him one of the most successful directors of our time., birthDate=1980-07-30, movies=[])
+2024-10-26 18:10:46.292 [http-nio-8080-exec-6] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:10:46.293 [http-nio-8080-exec-6] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:10:46.296 [http-nio-8080-exec-6] INFO  project - DirectorServiceImpl:findAll() Retrieved 2 directors
+2024-10-26 18:10:46.296 [http-nio-8080-exec-6] INFO  project - DirectorController:getAll() Fetched 2 directors
+2024-10-26 18:10:46.299 [http-nio-8080-exec-7] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:10:46.299 [http-nio-8080-exec-7] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:10:46.302 [http-nio-8080-exec-7] INFO  project - DirectorServiceImpl:findAll() Retrieved 2 directors
+2024-10-26 18:10:46.302 [http-nio-8080-exec-7] INFO  project - DirectorController:getAll() Fetched 2 directors
+2024-10-26 18:21:30.392 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:21:30.392 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:21:30.485 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieved 0 directors
+2024-10-26 18:21:30.486 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Fetched 0 directors
+2024-10-26 18:21:30.512 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:21:30.512 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:21:30.514 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieved 0 directors
+2024-10-26 18:21:30.514 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Fetched 0 directors
+2024-10-26 18:23:35.433 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:23:35.433 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:23:35.525 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieved 0 directors
+2024-10-26 18:23:35.525 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Fetched 0 directors
+2024-10-26 18:23:35.554 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:23:35.554 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:23:35.556 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieved 0 directors
+2024-10-26 18:23:35.556 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Fetched 0 directors
+2024-10-26 18:23:37.060 [http-nio-8080-exec-3] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:23:37.060 [http-nio-8080-exec-3] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:23:37.062 [http-nio-8080-exec-3] INFO  project - DirectorServiceImpl:findAll() Retrieved 0 directors
+2024-10-26 18:23:37.062 [http-nio-8080-exec-3] INFO  project - DirectorController:getAll() Fetched 0 directors
+2024-10-26 18:23:37.066 [http-nio-8080-exec-4] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:23:37.066 [http-nio-8080-exec-4] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:23:37.068 [http-nio-8080-exec-4] INFO  project - DirectorServiceImpl:findAll() Retrieved 0 directors
+2024-10-26 18:23:37.068 [http-nio-8080-exec-4] INFO  project - DirectorController:getAll() Fetched 0 directors
+2024-10-26 18:23:37.294 [http-nio-8080-exec-5] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:23:37.294 [http-nio-8080-exec-5] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:23:37.296 [http-nio-8080-exec-5] INFO  project - DirectorServiceImpl:findAll() Retrieved 0 directors
+2024-10-26 18:23:37.296 [http-nio-8080-exec-5] INFO  project - DirectorController:getAll() Fetched 0 directors
+2024-10-26 18:23:37.300 [http-nio-8080-exec-6] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:23:37.300 [http-nio-8080-exec-6] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:23:37.302 [http-nio-8080-exec-6] INFO  project - DirectorServiceImpl:findAll() Retrieved 0 directors
+2024-10-26 18:23:37.302 [http-nio-8080-exec-6] INFO  project - DirectorController:getAll() Fetched 0 directors
+2024-10-26 18:23:37.524 [http-nio-8080-exec-7] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:23:37.524 [http-nio-8080-exec-7] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:23:37.526 [http-nio-8080-exec-7] INFO  project - DirectorServiceImpl:findAll() Retrieved 0 directors
+2024-10-26 18:23:37.527 [http-nio-8080-exec-7] INFO  project - DirectorController:getAll() Fetched 0 directors
+2024-10-26 18:23:37.531 [http-nio-8080-exec-8] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:23:37.531 [http-nio-8080-exec-8] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:23:37.533 [http-nio-8080-exec-8] INFO  project - DirectorServiceImpl:findAll() Retrieved 0 directors
+2024-10-26 18:23:37.533 [http-nio-8080-exec-8] INFO  project - DirectorController:getAll() Fetched 0 directors
+2024-10-26 18:27:40.784 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:27:40.784 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:27:40.868 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieved 0 directors
+2024-10-26 18:27:40.869 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Fetched 0 directors
+2024-10-26 18:27:40.895 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:27:40.895 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:27:40.897 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieved 0 directors
+2024-10-26 18:27:40.897 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Fetched 0 directors
+2024-10-26 18:27:42.297 [http-nio-8080-exec-3] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:27:42.297 [http-nio-8080-exec-3] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:27:42.299 [http-nio-8080-exec-3] INFO  project - DirectorServiceImpl:findAll() Retrieved 0 directors
+2024-10-26 18:27:42.300 [http-nio-8080-exec-3] INFO  project - DirectorController:getAll() Fetched 0 directors
+2024-10-26 18:27:42.303 [http-nio-8080-exec-4] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:27:42.303 [http-nio-8080-exec-4] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:27:42.305 [http-nio-8080-exec-4] INFO  project - DirectorServiceImpl:findAll() Retrieved 0 directors
+2024-10-26 18:27:42.305 [http-nio-8080-exec-4] INFO  project - DirectorController:getAll() Fetched 0 directors
+2024-10-26 18:27:42.531 [http-nio-8080-exec-5] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:27:42.532 [http-nio-8080-exec-5] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:27:42.534 [http-nio-8080-exec-5] INFO  project - DirectorServiceImpl:findAll() Retrieved 0 directors
+2024-10-26 18:27:42.534 [http-nio-8080-exec-5] INFO  project - DirectorController:getAll() Fetched 0 directors
+2024-10-26 18:27:42.539 [http-nio-8080-exec-6] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:27:42.539 [http-nio-8080-exec-6] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:27:42.541 [http-nio-8080-exec-6] INFO  project - DirectorServiceImpl:findAll() Retrieved 0 directors
+2024-10-26 18:27:42.541 [http-nio-8080-exec-6] INFO  project - DirectorController:getAll() Fetched 0 directors
+2024-10-26 18:27:42.731 [http-nio-8080-exec-7] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:27:42.732 [http-nio-8080-exec-7] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:27:42.734 [http-nio-8080-exec-7] INFO  project - DirectorServiceImpl:findAll() Retrieved 0 directors
+2024-10-26 18:27:42.734 [http-nio-8080-exec-7] INFO  project - DirectorController:getAll() Fetched 0 directors
+2024-10-26 18:27:42.737 [http-nio-8080-exec-8] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:27:42.737 [http-nio-8080-exec-8] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:27:42.740 [http-nio-8080-exec-8] INFO  project - DirectorServiceImpl:findAll() Retrieved 0 directors
+2024-10-26 18:27:42.740 [http-nio-8080-exec-8] INFO  project - DirectorController:getAll() Fetched 0 directors
+2024-10-26 18:29:20.784 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:29:20.784 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:29:20.871 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieved 0 directors
+2024-10-26 18:29:20.871 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Fetched 0 directors
+2024-10-26 18:29:20.899 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:29:20.900 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:29:20.902 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieved 0 directors
+2024-10-26 18:29:20.902 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Fetched 0 directors
+2024-10-26 18:29:22.134 [http-nio-8080-exec-3] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:29:22.134 [http-nio-8080-exec-3] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:29:22.137 [http-nio-8080-exec-3] INFO  project - DirectorServiceImpl:findAll() Retrieved 0 directors
+2024-10-26 18:29:22.137 [http-nio-8080-exec-3] INFO  project - DirectorController:getAll() Fetched 0 directors
+2024-10-26 18:29:22.141 [http-nio-8080-exec-4] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:29:22.141 [http-nio-8080-exec-4] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:29:22.143 [http-nio-8080-exec-4] INFO  project - DirectorServiceImpl:findAll() Retrieved 0 directors
+2024-10-26 18:29:22.143 [http-nio-8080-exec-4] INFO  project - DirectorController:getAll() Fetched 0 directors
+2024-10-26 18:30:02.000 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:30:02.000 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:30:02.090 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieved 0 directors
+2024-10-26 18:30:02.091 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Fetched 0 directors
+2024-10-26 18:30:02.119 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:30:02.120 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:30:02.121 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieved 0 directors
+2024-10-26 18:30:02.122 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Fetched 0 directors
+2024-10-26 18:32:00.654 [http-nio-8080-exec-2] INFO  project - DirectorController:createDirector() Received request to create director: CreateDirectorRequestDTO(firstName=Steven, lastName=Spielberg, biography=American film director, screenwriter, producer and editor.The highest-grossing director in the history of world cinema: his films collected more than 11 billion dollars at the box office, birthDate=1946-11-18)
+2024-10-26 18:32:00.815 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:save() Saved new director with id: 1
+2024-10-26 18:32:00.815 [http-nio-8080-exec-2] INFO  project - DirectorController:createDirector() Successfully created director with id: 1
+2024-10-26 18:32:11.915 [http-nio-8080-exec-1] INFO  project - DirectorController:createDirector() Received request to create director: CreateDirectorRequestDTO(firstName=Christopher, lastName=Nolan, biography=English film director, screenwriter and producer who has British and American citizenship. His 12 films have been critically acclaimed and have grossed over $4 billion at the box office, making him one of the most successful directors of our time., birthDate=1970-07-30)
+2024-10-26 18:32:11.931 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:save() Saved new director with id: 2
+2024-10-26 18:32:11.931 [http-nio-8080-exec-1] INFO  project - DirectorController:createDirector() Successfully created director with id: 2
+2024-10-26 18:32:29.515 [http-nio-8080-exec-4] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:32:29.515 [http-nio-8080-exec-4] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:32:29.519 [http-nio-8080-exec-4] INFO  project - DirectorServiceImpl:findAll() Retrieved 2 directors
+2024-10-26 18:32:29.520 [http-nio-8080-exec-4] INFO  project - DirectorController:getAll() Fetched 2 directors
+2024-10-26 18:32:29.548 [http-nio-8080-exec-5] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:32:29.548 [http-nio-8080-exec-5] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:32:29.552 [http-nio-8080-exec-5] INFO  project - DirectorServiceImpl:findAll() Retrieved 2 directors
+2024-10-26 18:32:29.552 [http-nio-8080-exec-5] INFO  project - DirectorController:getAll() Fetched 2 directors
+2024-10-26 18:33:16.983 [http-nio-8080-exec-8] INFO  project - DirectorController:updateDirector() Received request to update director by id: 1
+2024-10-26 18:33:17.007 [http-nio-8080-exec-8] INFO  project - Updated director with id: 1
+2024-10-26 18:33:17.007 [http-nio-8080-exec-8] INFO  project - DirectorController:updateDirector() Successfully updated director: DirectorDTO(id=1, firstName=Steven, lastName=Spielberg, biography=, birthDate=1946-11-18, movies=[])
+2024-10-26 18:33:18.753 [http-nio-8080-exec-9] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:33:18.753 [http-nio-8080-exec-9] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:33:18.757 [http-nio-8080-exec-9] INFO  project - DirectorServiceImpl:findAll() Retrieved 2 directors
+2024-10-26 18:33:18.758 [http-nio-8080-exec-9] INFO  project - DirectorController:getAll() Fetched 2 directors
+2024-10-26 18:33:18.761 [http-nio-8080-exec-9] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:33:18.761 [http-nio-8080-exec-9] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:33:18.765 [http-nio-8080-exec-9] INFO  project - DirectorServiceImpl:findAll() Retrieved 2 directors
+2024-10-26 18:33:18.766 [http-nio-8080-exec-9] INFO  project - DirectorController:getAll() Fetched 2 directors
+2024-10-26 18:33:19.551 [http-nio-8080-exec-3] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:33:19.552 [http-nio-8080-exec-3] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:33:19.556 [http-nio-8080-exec-3] INFO  project - DirectorServiceImpl:findAll() Retrieved 2 directors
+2024-10-26 18:33:19.556 [http-nio-8080-exec-3] INFO  project - DirectorController:getAll() Fetched 2 directors
+2024-10-26 18:33:19.559 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:33:19.559 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:33:19.562 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieved 2 directors
+2024-10-26 18:33:19.563 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Fetched 2 directors
+2024-10-26 18:33:20.049 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:33:20.049 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:33:20.052 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieved 2 directors
+2024-10-26 18:33:20.053 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Fetched 2 directors
+2024-10-26 18:33:20.056 [http-nio-8080-exec-4] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:33:20.056 [http-nio-8080-exec-4] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:33:20.059 [http-nio-8080-exec-4] INFO  project - DirectorServiceImpl:findAll() Retrieved 2 directors
+2024-10-26 18:33:20.059 [http-nio-8080-exec-4] INFO  project - DirectorController:getAll() Fetched 2 directors
+2024-10-26 18:33:20.568 [http-nio-8080-exec-5] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:33:20.568 [http-nio-8080-exec-5] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:33:20.572 [http-nio-8080-exec-5] INFO  project - DirectorServiceImpl:findAll() Retrieved 2 directors
+2024-10-26 18:33:20.572 [http-nio-8080-exec-5] INFO  project - DirectorController:getAll() Fetched 2 directors
+2024-10-26 18:33:20.575 [http-nio-8080-exec-6] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:33:20.576 [http-nio-8080-exec-6] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:33:20.579 [http-nio-8080-exec-6] INFO  project - DirectorServiceImpl:findAll() Retrieved 2 directors
+2024-10-26 18:33:20.579 [http-nio-8080-exec-6] INFO  project - DirectorController:getAll() Fetched 2 directors
+2024-10-26 18:34:37.443 [http-nio-8080-exec-9] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:34:37.443 [http-nio-8080-exec-9] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:34:37.446 [http-nio-8080-exec-9] INFO  project - DirectorServiceImpl:findAll() Retrieved 2 directors
+2024-10-26 18:34:37.446 [http-nio-8080-exec-9] INFO  project - DirectorController:getAll() Fetched 2 directors
+2024-10-26 18:34:37.449 [http-nio-8080-exec-3] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:34:37.449 [http-nio-8080-exec-3] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:34:37.452 [http-nio-8080-exec-3] INFO  project - DirectorServiceImpl:findAll() Retrieved 2 directors
+2024-10-26 18:34:37.453 [http-nio-8080-exec-3] INFO  project - DirectorController:getAll() Fetched 2 directors
+2024-10-26 18:36:16.576 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:36:16.576 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:36:16.689 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieved 2 directors
+2024-10-26 18:36:16.690 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Fetched 2 directors
+2024-10-26 18:36:16.759 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:36:16.759 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:36:16.763 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieved 2 directors
+2024-10-26 18:36:16.763 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Fetched 2 directors
+2024-10-26 18:39:52.637 [http-nio-8080-exec-5] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:39:52.638 [http-nio-8080-exec-5] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:39:52.642 [http-nio-8080-exec-5] INFO  project - DirectorServiceImpl:findAll() Retrieved 2 directors
+2024-10-26 18:39:52.642 [http-nio-8080-exec-5] INFO  project - DirectorController:getAll() Fetched 2 directors
+2024-10-26 18:39:52.647 [http-nio-8080-exec-6] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-10-26 18:39:52.647 [http-nio-8080-exec-6] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-10-26 18:39:52.652 [http-nio-8080-exec-6] INFO  project - DirectorServiceImpl:findAll() Retrieved 2 directors
+2024-10-26 18:39:52.652 [http-nio-8080-exec-6] INFO  project - DirectorController:getAll() Fetched 2 directors
+2024-11-21 00:22:25.740 [http-nio-8080-exec-2] INFO  project - DirectorController:createDirector() Received request to create director: CreateDirectorRequestDTO(firstName=Christopher, lastName=Nolan, biography=English film director, screenwriter and producer who has British and American citizenship. His 12 films have been critically acclaimed and have grossed over $4 billion at the box office, making him one of the most successful directors of our time., birthDate=1970-07-30)
+2024-11-21 00:22:25.909 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:save() Saved new director with id: 1
+2024-11-21 00:22:25.909 [http-nio-8080-exec-2] INFO  project - DirectorController:createDirector() Successfully created director with id: 1
+2024-11-21 00:22:35.210 [http-nio-8080-exec-4] INFO  project - DirectorController:getById() Received request to fetch director by id: 1
+2024-11-21 00:22:35.249 [http-nio-8080-exec-4] INFO  project - DirectorServiceImpl:findById() Director with id 1 found in repository
+2024-11-21 00:22:35.250 [http-nio-8080-exec-4] INFO  project - DirectorController:getById() Successfully fetched director by id: 1
+2024-11-21 00:23:43.628 [http-nio-8080-exec-6] INFO  project - DirectorController:getById() Received request to fetch director by id: 1
+2024-11-21 00:23:43.629 [http-nio-8080-exec-6] INFO  project - DirectorController:getById() Successfully fetched director by id: 1
+2024-11-21 00:26:15.499 [http-nio-8080-exec-9] INFO  project - DirectorController:updateDirector() Received request to update director by id: 1
+2024-11-21 00:26:15.514 [http-nio-8080-exec-9] INFO  project - Updated director with id: 1
+2024-11-21 00:26:15.515 [http-nio-8080-exec-9] INFO  project - DirectorController:updateDirector() Successfully updated director: DirectorDTO(id=1, firstName=Christopher, lastName=Nolan, biography=English film director, screenwriter and producer who has British and American citizenship. His 12 films have been critically acclaimed and have grossed over $4 billion at the box office, making him one of the most successful directors of our time., birthDate=1980-07-30, movies=[])
+2024-11-21 00:26:59.784 [http-nio-8080-exec-10] INFO  project - DirectorController:updateDirector() Received request to update director by id: 1
+2024-11-21 00:26:59.788 [http-nio-8080-exec-10] INFO  project - Updated director with id: 1
+2024-11-21 00:26:59.789 [http-nio-8080-exec-10] INFO  project - DirectorController:updateDirector() Successfully updated director: DirectorDTO(id=1, firstName=Christopher, lastName=Nolan, biography=English film director, screenwriter and producer who has British and American citizenship. His 12 films have been critically acclaimed and have grossed over $4 billion at the box office, making him one of the most successful directors of our time., birthDate=1990-07-30, movies=[])
+2024-11-22 21:45:47.688 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-11-22 21:45:47.689 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-11-22 21:45:47.798 [http-nio-8080-exec-2] INFO  project - DirectorServiceImpl:findAll() Retrieved 1 directors
+2024-11-22 21:45:47.799 [http-nio-8080-exec-2] INFO  project - DirectorController:getAll() Fetched 1 directors
+2024-11-22 21:46:59.707 [http-nio-8080-exec-5] INFO  project - DirectorController:createDirector() Received request to create director: CreateDirectorRequestDTO(firstName=Quentin, lastName=Tarantino, biography=American film director, screenwriter, producer, and actor known for his unique cinematic style, characterized by nonlinear storylines, satirical humor, and extreme violence. His films have won numerous awards and grossed over $3 billion worldwide., birthDate=1963-03-27)
+2024-11-22 21:46:59.788 [http-nio-8080-exec-5] INFO  project - DirectorServiceImpl:save() Saved new director with id: 2
+2024-11-22 21:46:59.788 [http-nio-8080-exec-5] INFO  project - DirectorController:createDirector() Successfully created director with id: 2
+2024-11-22 21:47:10.607 [http-nio-8080-exec-6] INFO  project - DirectorController:createDirector() Received request to create director: CreateDirectorRequestDTO(firstName=Steven, lastName=Spielberg, biography=American film director, producer, and screenwriter. He is one of the most influential figures in the history of cinema, with films like 'Jaws', 'E.T.', and 'Jurassic Park'. His works have grossed over $10 billion worldwide., birthDate=1946-12-18)
+2024-11-22 21:47:10.615 [http-nio-8080-exec-6] INFO  project - DirectorServiceImpl:save() Saved new director with id: 3
+2024-11-22 21:47:10.615 [http-nio-8080-exec-6] INFO  project - DirectorController:createDirector() Successfully created director with id: 3
+2024-11-22 21:47:17.711 [http-nio-8080-exec-7] INFO  project - DirectorController:createDirector() Received request to create director: CreateDirectorRequestDTO(firstName=Martin, lastName=Scorsese, biography=American film director, producer, screenwriter, and actor. Known for his work in the crime genre, his films have garnered numerous awards and he is regarded as one of the greatest filmmakers of all time., birthDate=1942-11-17)
+2024-11-22 21:47:17.719 [http-nio-8080-exec-7] INFO  project - DirectorServiceImpl:save() Saved new director with id: 4
+2024-11-22 21:47:17.719 [http-nio-8080-exec-7] INFO  project - DirectorController:createDirector() Successfully created director with id: 4
+2024-11-22 21:47:31.907 [http-nio-8080-exec-8] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-11-22 21:47:31.908 [http-nio-8080-exec-8] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-11-22 21:47:31.912 [http-nio-8080-exec-8] INFO  project - DirectorServiceImpl:findAll() Retrieved 4 directors
+2024-11-22 21:47:31.912 [http-nio-8080-exec-8] INFO  project - DirectorController:getAll() Fetched 4 directors
+2024-11-22 21:47:49.281 [http-nio-8080-exec-9] INFO  project - DirectorController:getById() Received request to fetch director by id: 1
+2024-11-22 21:47:49.285 [http-nio-8080-exec-9] ERROR project - GlobalExceptionHandler:handleException() An exception occurred: Cannot find cache named 'directors' for Builder[public com.strutynskyi.api.models.Director com.strutynskyi.api.services.impl.DirectorServiceImpl.findById(java.lang.Long)] caches=[directors] | key='#id' | keyGenerator='' | cacheManager='' | cacheResolver='' | condition='' | unless='' | sync='false'
+2024-11-22 21:53:42.799 [http-nio-8080-exec-1] INFO  project - DirectorController:getById() Received request to fetch director by id: 1
+2024-11-22 21:53:42.803 [http-nio-8080-exec-1] ERROR project - GlobalExceptionHandler:handleException() An exception occurred: Cannot find cache named 'directors' for Builder[public com.strutynskyi.api.models.Director com.strutynskyi.api.services.impl.DirectorServiceImpl.findById(java.lang.Long)] caches=[directors] | key='#id' | keyGenerator='' | cacheManager='' | cacheResolver='' | condition='' | unless='' | sync='false'
+2024-11-23 04:17:42.384 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Received request to fetch all directors
+2024-11-23 04:17:42.385 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieving all directors from repository
+2024-11-23 04:17:42.504 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findAll() Retrieved 4 directors
+2024-11-23 04:17:42.505 [http-nio-8080-exec-1] INFO  project - DirectorController:getAll() Fetched 4 directors
+2024-11-23 04:17:55.742 [http-nio-8080-exec-3] INFO  project - DirectorController:getById() Received request to fetch director by id: 1
+2024-11-23 04:17:55.780 [http-nio-8080-exec-3] INFO  project - DirectorServiceImpl:findById() Director with id 1 found in repository
+2024-11-23 04:17:55.796 [http-nio-8080-exec-3] INFO  project - DirectorController:getById() Successfully fetched director by id: 1
+2024-11-23 04:27:38.508 [http-nio-8080-exec-1] INFO  project - DirectorController:getById() Received request to fetch director by id: 1
+2024-11-23 04:27:38.596 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findById() Director with id 1 found in repository
+2024-11-23 04:27:38.605 [http-nio-8080-exec-1] INFO  project - DirectorController:getById() Successfully fetched director by id: 1
+2024-11-23 04:27:56.572 [http-nio-8080-exec-4] INFO  project - DirectorController:getById() Received request to fetch director by id: 1
+2024-11-23 04:27:56.576 [http-nio-8080-exec-4] INFO  project - DirectorController:getById() Successfully fetched director by id: 1
+2024-11-23 04:31:36.339 [http-nio-8080-exec-1] INFO  project - DirectorController:getById() Received request to fetch director by id: 1
+2024-11-23 04:31:36.429 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findById() Director with id 1 found in repository
+2024-11-23 04:31:36.437 [http-nio-8080-exec-1] INFO  project - DirectorController:getById() Successfully fetched director by id: 1
+2024-11-23 04:31:39.887 [http-nio-8080-exec-2] INFO  project - DirectorController:getById() Received request to fetch director by id: 1
+2024-11-23 04:31:39.890 [http-nio-8080-exec-2] INFO  project - DirectorController:getById() Successfully fetched director by id: 1
+2024-11-23 04:34:10.289 [http-nio-8080-exec-6] INFO  project - DirectorController:getById() Received request to fetch director by id: 1
+2024-11-23 04:34:10.293 [http-nio-8080-exec-6] INFO  project - DirectorServiceImpl:findById() Director with id 1 found in repository
+2024-11-23 04:34:10.294 [http-nio-8080-exec-6] INFO  project - DirectorController:getById() Successfully fetched director by id: 1
+2024-11-23 04:34:58.841 [http-nio-8080-exec-1] INFO  project - DirectorController:getById() Received request to fetch director by id: 1
+2024-11-23 04:34:58.930 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findById() Director with id 1 found in repository
+2024-11-23 04:34:58.939 [http-nio-8080-exec-1] INFO  project - DirectorController:getById() Successfully fetched director by id: 1
+2024-11-25 03:21:05.188 [http-nio-8080-exec-1] INFO  project - DirectorController:getById() Received request to fetch director by id: 1
+2024-11-25 03:21:05.286 [http-nio-8080-exec-1] INFO  project - DirectorServiceImpl:findById() Director with id 1 found in repository
+2024-11-25 03:21:05.294 [http-nio-8080-exec-1] INFO  project - DirectorController:getById() Successfully fetched director by id: 1
+2024-11-25 03:21:14.102 [http-nio-8080-exec-3] INFO  project - DirectorController:getById() Received request to fetch director by id: 1
+2024-11-25 03:21:14.106 [http-nio-8080-exec-3] INFO  project - DirectorController:getById() Successfully fetched director by id: 1
+2024-11-25 03:21:23.627 [http-nio-8080-exec-4] INFO  project - DirectorController:updateDirector() Received request to update director by id: 1
+2024-11-25 03:21:23.704 [http-nio-8080-exec-4] INFO  project - Updated director with id: 1
+2024-11-25 03:21:23.706 [http-nio-8080-exec-4] INFO  project - DirectorController:updateDirector() Successfully updated director: DirectorDTO(id=1, firstName=Christopher, lastName=Nolan, biography=English film director, screenwriter and producer who has British and American citizenship. His 12 films have been critically acclaimed and have grossed over $4 billion at the box office, making him one of the most successful directors of our time., birthDate=1970-07-30, movies=[])
+2024-11-25 03:21:36.309 [http-nio-8080-exec-5] INFO  project - DirectorController:getById() Received request to fetch director by id: 1
+2024-11-25 03:21:36.310 [http-nio-8080-exec-5] INFO  project - DirectorController:getById() Successfully fetched director by id: 1
+2024-11-25 03:21:39.873 [http-nio-8080-exec-6] INFO  project - DirectorController:deleteDirector() Received request to delete director by id: 2
+2024-11-25 03:21:39.894 [http-nio-8080-exec-6] INFO  project - Deleted director with id: 2
+2024-11-25 03:21:39.895 [http-nio-8080-exec-6] INFO  project - DirectorController:deleteDirector() Successfully deleted director by id: 2
+2024-11-25 03:21:45.482 [http-nio-8080-exec-7] INFO  project - DirectorController:deleteDirector() Received request to delete director by id: 1
+2024-11-25 03:21:45.487 [http-nio-8080-exec-7] INFO  project - Deleted director with id: 1
+2024-11-25 03:21:45.487 [http-nio-8080-exec-7] INFO  project - DirectorController:deleteDirector() Successfully deleted director by id: 1
+2024-11-25 03:21:49.684 [http-nio-8080-exec-8] INFO  project - DirectorController:getById() Received request to fetch director by id: 1
+2024-11-25 03:21:49.686 [http-nio-8080-exec-8] ERROR project - DirectorServiceImpl:findById() Director not found by id: 1
+2024-11-25 03:21:49.688 [http-nio-8080-exec-8] ERROR project - GlobalExceptionHandler:handleException() An exception occurred: No such director

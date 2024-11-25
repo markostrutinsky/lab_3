@@ -1,0 +1,26 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/moviedirectordb
+    username: postgres
+    password: lbdfyghj123
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        format_sql: true
+    database: postgresql
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+api:
+  movie:
+    pagination:
+      enabled: true       # Вмикає або вимикає пагінацію
+      default-page-size: 10  # Розмір сторінки за замовчуванням
+      max-page-size: 100     # Максимально допустимий розмір сторінки
+    filtering:
+      enabled: true       # Вмикає фільтрування
+      allowed-fields:     # Поля, доступні для фільтрації
+        - title
+        - genre
+        - releaseDate
